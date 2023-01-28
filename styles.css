@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.table-dark{
+	background-color: black;
+	color:white;
+	border:50px;
+	height:20px;
+	
+}
